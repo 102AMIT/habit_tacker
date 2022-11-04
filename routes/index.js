@@ -190,6 +190,7 @@ router.get("/status-update", (req, res) => {
             }
             habit.dates = dates;
             habit.save()
+            
                 .then(habit => {
                     console.log(habit);
                     res.redirect('back');
