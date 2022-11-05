@@ -36,7 +36,6 @@ hosted link on heroku : https://habit-tracker-amit.herokuapp.com/
 
 habit-tracker <br>
 ├── assets <br>
-│ --- ├── calendar.svg <br>
 │ --- └── css <br>
 │ -------- └── styles.css <br>
 │ -------- └── bootstrap.min.css <br>
