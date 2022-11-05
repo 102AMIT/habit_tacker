@@ -13,7 +13,7 @@ hosted link on heroku : https://habit-tracker-amit.herokuapp.com/
 - MongoDB
 - Git
 - NodeJS
-- CLI
+
 
 ## Installation
 
